@@ -1,4 +1,4 @@
-## Hi there 👋
+## AI Research Master’s student @IP Paris, 10+ AI Hackathons, 1 Publication & 1 ongoing research. Driven by curiosity towards R&D in AI.
 
 <!--
 **vijaysr4/vijaysr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
