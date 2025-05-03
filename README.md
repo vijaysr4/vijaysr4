@@ -2,12 +2,9 @@
 
 <p align="center">
   <img src="./assets/nn_meme.jpg" alt="Funny Meme" width="400"/>
+  <br/>
+  <small>Source: <a href="https://www.monkeyuser.com/">MonkeyUser</a></small>
 </p>
-
-<p align="center">
-Source: [MonkeyUser](https://www.monkeyuser.com/)
-</p>
-
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
