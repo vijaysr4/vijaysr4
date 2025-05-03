@@ -8,6 +8,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-808080?style=flat&logo=gnubash&logoColor=4EAA25)  
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)  
+
 
 ## Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -23,6 +26,7 @@
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-FF9900?style=flat&logo=unity&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![H2O.ai](https://img.shields.io/badge/H2O.ai-049FD9?style=flat&logo=h2o&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)  
 
 ## Tools & Platform
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -35,3 +39,8 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-007FFF?style=flat&logo=microsoft-azure&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+
+
+
+
+
