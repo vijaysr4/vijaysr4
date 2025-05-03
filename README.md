@@ -40,7 +40,20 @@
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
+---
 
+## 📊 Dashboard
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vijaysr4&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"
+    alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaysr4&layout=compact&theme=blue-green&hide=Jupyter%20Notebook"
+    alt="Top Languages" 
+    width="355" />
+</p>
 
 
 
